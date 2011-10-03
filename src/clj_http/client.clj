@@ -189,7 +189,7 @@
       wrap-user-info
       wrap-url
       wrap-redirects
-      wrap-exceptions
+   ;   wrap-exceptions
       wrap-decompression
       wrap-input-coercion
       wrap-output-coercion
